@@ -1,0 +1,4 @@
+filename,sample_id,condition,donor
+Novo_PBMC_Donor1.fcs,Novo_PBMC_Donor1,healthy,donor1
+Novo_PBMC_Donor2.fcs,Novo_PBMC_Donor2,healthy,donor2
+Novo_PBMC_Donor3.fcs,Novo_PBMC_Donor3,healthy,donor3
