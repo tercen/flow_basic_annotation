@@ -1,53 +1,53 @@
-marker,channel,channel_id,flurochrome,,type
-CCR6,R725-A,32,APC-R700-A,,lineage
-CCR6,R725-H,6,APC-R700-H,,lineage
-CCR7,V780-A,47,BV785-A,,lineage
-CCR7,V780-H,21,BV785-H,,lineage
-CD11c,UV667-A,38,BUV661-A,,lineage
-CD11c,UV667-H,12,BUV661-H,,lineage
-CD123,B525-A,29,FITC-A,,lineage
-CD123,B525-H,3,FITC-H,,lineage
-CD127,R667-A,31,APC-A,,lineage
-CD127,R667-H,5,APC-H,,lineage
-CD14,V725-A,46,BV711-A,,lineage
-CD14,V725-H,20,BV711-H,,lineage
-CD16,V615-A,44,BV605-A,,lineage
-CD16,V615-H,18,BV605-H,,lineage
-CD19,B725-A,30,PerCP-eFluor 710-A,,lineage
-CD19,B725-H,4,PerCP-eFluor 710-H,,lineage
-CD24,Y586-A,48,PE-A,,lineage
-CD24,Y586-H,22,PE-H,,lineage
-CD25,V445-A,41,BV421-A,,lineage
-CD25,V445-H,15,BV421-H,,lineage
-CD27,UV525-A,35,BUV496-A,,lineage
-CD27,UV525-H,9,BUV496-H,,lineage
-CD3,V586-A,43,BV570-A,,lineage
-CD3,V586-H,17,BV570-H,,lineage
-CD33,UV586-A,36,BUV563-A,,lineage
-CD33,UV586-H,10,BUV563-H,,lineage
-CD38,Y667-A,50,PE-Cy5-A,,lineage
-CD38,Y667-H,24,PE-Cy5-H,,lineage
-CD4,Y725-A,51,PE-Alexa Fluor 700-A,,lineage
-CD4,Y725-H,25,PE-Alexa Fluor 700-H,,lineage
-CD45,V525-A,42,BV510-A,,lineage
-CD45,V525-H,16,BV510-H,,lineage
-CD45RA,R780-A,33,APC-Cy7-A,,lineage
-CD45RA,R780-H,7,APC-Cy7-H,,lineage
-CD56,UV615-A,37,BUV615-A,,lineage
-CD56,UV615-H,11,BUV615-H,,lineage
-CD8,UV780-A,40,BUV805-A,,lineage
-CD8,UV780-H,14,BUV805-H,,lineage
-CXCR3,Y615-A,49,PE-D594-A,,lineage
-CXCR3,Y615-H,23,PE-D594-H,,lineage
-FSC-A,FSC-A,27,,,lineage
-FSC-H,FSC-H,1,,,lineage
-HLA-DR,V667-A,45,BV650-A,,lineage
-HLA-DR,V667-H,19,BV650-H,,lineage
-IgD,UV725-A,39,BUV737-A,,lineage
-IgD,UV725-H,13,BUV737-H,,lineage
-SSC-A,SSC-A,28,,,lineage
-SSC-H,SSC-H,2,,,lineage
-Vd2 TCR,UV445-A,34,BUV395-A,,lineage
-Vd2 TCR,UV445-H,8,BUV395-H,,lineage
-gdTCR,Y780-A,52,PE-Cy7-A,,lineage
-gdTCR,Y780-H,26,PE-Cy7-H,,lineage
+marker,channel,channel_id,flurochrome,type
+CCR6,R725-A,1,APC-R700-A,lineage
+CCR6,R725-H,2,APC-R700-H,lineage
+CCR7,V780-A,3,BV785-A,lineage
+CCR7,V780-H,4,BV785-H,lineage
+CD11c,UV667-A,5,BUV661-A,lineage
+CD11c,UV667-H,6,BUV661-H,lineage
+CD123,B525-A,7,FITC-A,lineage
+CD123,B525-H,8,FITC-H,lineage
+CD127,R667-A,9,APC-A,lineage
+CD127,R667-H,10,APC-H,lineage
+CD14,V725-A,11,BV711-A,lineage
+CD14,V725-H,12,BV711-H,lineage
+CD16,V615-A,13,BV605-A,lineage
+CD16,V615-H,14,BV605-H,lineage
+CD19,B725-A,15,PerCP-eFluor 710-A,lineage
+CD19,B725-H,16,PerCP-eFluor 710-H,lineage
+CD24,Y586-A,17,PE-A,lineage
+CD24,Y586-H,18,PE-H,lineage
+CD25,V445-A,19,BV421-A,lineage
+CD25,V445-H,20,BV421-H,lineage
+CD27,UV525-A,21,BUV496-A,lineage
+CD27,UV525-H,22,BUV496-H,lineage
+CD3,V586-A,23,BV570-A,lineage
+CD3,V586-H,24,BV570-H,lineage
+CD33,UV586-A,25,BUV563-A,lineage
+CD33,UV586-H,26,BUV563-H,lineage
+CD38,Y667-A,27,PE-Cy5-A,lineage
+CD38,Y667-H,28,PE-Cy5-H,lineage
+CD4,Y725-A,29,PE-Alexa Fluor 700-A,lineage
+CD4,Y725-H,30,PE-Alexa Fluor 700-H,lineage
+CD45,V525-A,31,BV510-A,lineage
+CD45,V525-H,32,BV510-H,lineage
+CD45RA,R780-A,33,APC-Cy7-A,lineage
+CD45RA,R780-H,34,APC-Cy7-H,lineage
+CD56,UV615-A,35,BUV615-A,lineage
+CD56,UV615-H,36,BUV615-H,lineage
+CD8,UV780-A,37,BUV805-A,lineage
+CD8,UV780-H,38,BUV805-H,lineage
+CXCR3,Y615-A,39,PE-D594-A,lineage
+CXCR3,Y615-H,40,PE-D594-H,lineage
+FSC-A,FSC-A,41,,lineage
+FSC-H,FSC-H,42,,lineage
+HLA-DR,V667-A,43,BV650-A,lineage
+HLA-DR,V667-H,44,BV650-H,lineage
+IgD,UV725-A,45,BUV737-A,lineage
+IgD,UV725-H,46,BUV737-H,lineage
+SSC-A,SSC-A,47,,lineage
+SSC-H,SSC-H,48,,lineage
+Vd2 TCR,UV445-A,49,BUV395-A,lineage
+Vd2 TCR,UV445-H,50,BUV395-H,lineage
+gdTCR,Y780-A,51,PE-Cy7-A,lineage
+gdTCR,Y780-H,26,PE-Cy7-H,lineage
